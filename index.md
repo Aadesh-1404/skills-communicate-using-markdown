@@ -11,3 +11,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [x] Lab1
+- [ ] Complete paper Reading
+- [ ] Complete Resume
